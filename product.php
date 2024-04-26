@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Zezmon</title>
+  <title>Abaaj</title>
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
@@ -71,7 +71,7 @@
             <div id="myNav" class="overlay">
               <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
               <div class="overlay-content">
-                <a href="index.html">HOME</a>
+                <a href="index.php">HOME</a>
                 <a href="product.php">PRODUCTS</a>
 				<a href="contact_us.php">CONTACT_US</a>
 				<a href="collection.php">COLLECTION</a>
